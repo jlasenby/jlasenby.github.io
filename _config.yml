@@ -1,0 +1,20 @@
+title: Lasenby
+description: A minimal personal site
+author: James Lasenby
+email: hello@lasenby.com
+
+url: "https://lasenby.com"
+baseurl: ""
+
+permalink: /:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - .obsidian/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
