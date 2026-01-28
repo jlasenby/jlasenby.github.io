@@ -8,3 +8,9 @@ permalink: /hello-world/
 # Hello World!
 
 This is my first post using the template.
+
+
+# Title Goes Here
+
+Write your content here.
+
